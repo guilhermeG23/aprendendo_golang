@@ -1,0 +1,1 @@
+go mod é para informar o nome do projeto e a versão do go que vai usar
